@@ -4,7 +4,7 @@
 # family={}
 
 # for i in range(len(a)):
-    family[a[i]] = b[i]
+#   family[a[i]] = b[i]
     
 # print(family) """
 def func(x):
