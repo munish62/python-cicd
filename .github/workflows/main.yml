@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: munish62/my-python-app-ex2
+          tags: munish62/my-python-app-ex2:v3
